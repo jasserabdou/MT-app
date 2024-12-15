@@ -47,9 +47,9 @@ tenacity==9.0.0
 tiktoken==0.8.0
 tokenizers==0.21.0
 toml==0.10.2
-torch==2.5.1+cu124
-torchaudio==2.5.1+cu124
-torchvision==0.20.1+cu124
+torch==2.5.1
+torchaudio==2.5.1
+torchvision==0.20.1
 tornado==6.4.2
 tqdm==4.67.1
 transformers==4.47.0
